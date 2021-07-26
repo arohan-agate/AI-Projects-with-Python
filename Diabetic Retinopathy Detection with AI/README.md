@@ -3,3 +3,4 @@ The purpose of this project is to train a deep learning model that can scan huma
 This project in specific utilizes a residual neural network (resnet). 
 
 Here is a link to the dataset used for this project: https://www.kaggle.com/c/diabetic-retinopathy-detection
+If you would like access to the refined dataset that I used for this project, feel free to email me - 'arogate05@gmail.com'.
